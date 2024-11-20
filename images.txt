@@ -1,4 +1,4 @@
 zabbix/zabbix-agent
 zabbix/zabbix-server-mysql
 zabbix/zabbix-web-nginx-mysql
-prometheus:latest
+prom/prometheus:latest
